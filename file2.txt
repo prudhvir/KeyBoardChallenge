@@ -1,0 +1,13 @@
+The configuration file , Config.txt should be handled as follows :
+
+1. Enter the model you are using in the format [--model] as the first line.
+Illustration :
+If you intend to search using the Boolean model then the first line of the configuration file should be
+[--boolean]
+
+2 Enter the zone you wish to search in as the second line. The entire zone should be present in the second line.
+
+Illustration :
+
+if you intend to query the terms in the title the second line of the configuration file should be
+
